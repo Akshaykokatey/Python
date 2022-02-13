@@ -1,0 +1,8 @@
+print("******************Booking Enquiry********************")
+Full_name=input("Enter your Full Name:")
+mobile_no=int(input("Enter contact no.:"))
+Emailid=input("Enter EmailId:")
+Noofpeoples=int(input("Enter no. of adults/child:"))
+roomtype=input("Enter room type(single,double or triple):")
+checkin=input("Enter booking date you want:")
+print("**********************We will contact you soon *************************")

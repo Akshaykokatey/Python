@@ -1,0 +1,8 @@
+fname=input('First name:')
+lname=input('lastname:')
+username=input("username")
+password=input('enter password:')
+phoneno=int(input('enter mobile no.:'))
+Gender =input("Enter gender:")
+dob=input('enter ur DOB:')
+print('Welcome to google Account')

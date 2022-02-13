@@ -1,0 +1,8 @@
+Name=input("Enter ur name:")
+id=int(input("Enter ur id:"))
+Emailid=input("Enter Emailmailid:")
+Contactno=int(input("Enter contact no:"))
+Department=("Enter department:")
+Experience=input("Enter ur year of Experience:")
+Salary=int(input("Enter annual income:"))
+print("Thank you!!!!!")
